@@ -1,5 +1,5 @@
 {
   "version": "1.3",
   "token": "ABC123XYZ", 
-  "firmware_url": "https://raw.githubusercontent.com/dbagusf/esp32baubau-ota/main/otawithversionjson.ino.bin"
+  "firmware_url": "https://github.com/pujianaisdaryanti269/Esp32pujiana/blob/main/updatejson.ino.bin"
 }
